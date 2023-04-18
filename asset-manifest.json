@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cb2d6c1c.css",
+    "main.js": "./static/js/main.a030cd00.js",
+    "static/js/27.924564bf.chunk.js": "./static/js/27.924564bf.chunk.js",
+    "static/media/gasby.svg": "./static/media/gasby.f7386c1052a7ba82b78b3bb674b25001.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cb2d6c1c.css",
+    "static/js/main.a030cd00.js"
+  ]
+}
