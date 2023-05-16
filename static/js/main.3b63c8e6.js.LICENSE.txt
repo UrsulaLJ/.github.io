@@ -1,4 +1,12 @@
 /*!
+ *  decimal.js v10.4.3
+ *  An arbitrary-precision Decimal type for JavaScript.
+ *  https://github.com/MikeMcl/decimal.js
+ *  Copyright (c) 2022 Michael Mclaughlin <M8ch88l@gmail.com>
+ *  MIT Licence
+ */
+
+/*!
  * Determine if an object is a Buffer
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
@@ -58,10 +66,43 @@
  */
 
 /**
+ * @remix-run/router v1.6.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
  * Prism: Lightweight, robust, elegant syntax highlighting
  *
  * @license MIT <https://opensource.org/licenses/MIT>
  * @author Lea Verou <https://lea.verou.me>
  * @namespace
  * @public
+ */
+
+/**
+ * React Router DOM v6.11.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.11.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
  */
